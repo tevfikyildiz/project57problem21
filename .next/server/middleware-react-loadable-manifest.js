@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST="{\"../App.js -> ./MousePosition\":{\"id\":\"../App.js -> ./MousePosition\",\"files\":[\"static/chunks/_app-pages-browser_src_MousePosition_js.js\"]}}"
